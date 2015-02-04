@@ -1,0 +1,11 @@
+auto: true
+
+markdown: rdiscount
+pygments: true
+paginate: 8
+permalink: /:title
+
+title: 飘零de思绪
+url: http://chanboo.github.io
+feed: /atom.xml
+author_info: <a href="http://chanboo.github.io/">飘零de思绪</a>
